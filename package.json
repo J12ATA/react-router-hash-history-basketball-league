@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "prop-types": "^15.6.2",
-    "query-string": "^6.2.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.2",
-    "react-transition-group": "^2.5.2",
-    "slug": "^0.9.3"
+    "prop-types": "^15.7.2",
+    "query-string": "^6.10.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "react-transition-group": "^4.3.0",
+    "slug": "^2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
